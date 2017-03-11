@@ -29,7 +29,7 @@ $(document).ready(function($) {
 
     var config = {
         title: "datmusic", //will be changed after i18n init
-        apiUrl: "https://api.example.com/",
+        apiUrl: "https://api.mp3downld.com/",
         appUrl: window.location.protocol + "//datmusic.xyz/",
         bitratesEnabled: true,
         oldQuery: null,
